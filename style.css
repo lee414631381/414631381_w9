@@ -1,0 +1,35 @@
+@charset "utf-8";
+.container header {
+    background-color: #C9985D;
+}
+.container header nav {
+    background-color: #C9985D;
+}
+#hero .hero_header .light {
+}
+.container #hero {
+    background-image: url(images/%E5%B0%81%E9%9D%A2.webp);
+}
+.container #about {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,233,132,1.00) 47.15%,rgba(255,255,255,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,233,132,1.00) 47.15%,rgba(255,255,255,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,233,132,1.00) 47.15%,rgba(255,255,255,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(255,233,132,1.00) 47.15%,rgba(255,255,255,1.00) 100%);
+}
+.container.banner {
+    background-image: url(images/%E7%89%9B%E8%A7%92%E9%BA%B5%E5%8C%85.jpg);
+
+
+}
+.container .banner {
+    background-image: url(images/%E5%B0%81%E9%9D%A2.webp);
+}
+.container .copyright {
+    background-color: #C9985D;
+}
+.container #contact {
+    background-image: url(images/%E5%B0%81%E9%9D%A2.webp);
+}
+.container #contact .button {
+    background-color: #C9985D;
+}
